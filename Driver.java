@@ -1,13 +1,6 @@
 package contactManager;
 
 /**
- * COMP 249 - Assignment 1 - Contact Manager v.1
- * Author: Tsang Chi Kit
- * Student ID: 5692636
- */
-
-
-/**
  * The driver class populates attributes for ContactManager class and Contact instances. 
  * Each ContactManager instance can have up to 10 contacts, so we can imagine each ContactManager instance as a separate contact book.
  * The driver class populates the variable instances used in each contacts, such as first & last names, address, phone numbers and their types.
